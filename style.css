@@ -1,0 +1,39 @@
+.adil{
+    background-color: aqua;
+    border: 2px solid red;
+    margin: 20px;
+    padding: 10px;
+    text-align: justify;
+    font-family: 'Krona One', sans-serif;
+    height: 300px; width: 90%;
+    
+    }
+    #id{
+        font-family: 'Indie Flower', cursive; color: violet; 
+    }
+    
+    #id1{
+        font-family: 'Yellowtail', cursive; color: navy;
+    
+    
+    }
+    #id2{
+        font-family: 'Anton', sans-serif; color: seagreen;
+    }
+        
+    #id3{font-family: 'Shadows Into Light', cursive; cursive; 
+            color: slateblue;
+    
+        }
+     #id4{font-family: 'Pacifico', cursive;  cursive;
+    color: tomato;
+        }
+        
+        .adil1 h1{
+    
+                color: orangered;   display: inline;
+    
+        }
+        .adil2 span{
+                 display: block; color: orchid;
+        }
